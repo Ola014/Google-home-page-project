@@ -11,3 +11,4 @@ It is done using html and css.
 Ola A. Ahil.
  
 ## visit my project at 
+https://ola014.github.io/google-home-page-project/
